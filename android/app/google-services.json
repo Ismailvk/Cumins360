@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41562949456",
+    "project_id": "cumins36-bc184",
+    "storage_bucket": "cumins36-bc184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41562949456:android:438ff14c048cdd58380e55",
+        "android_client_info": {
+          "package_name": "com.example.cumins36"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRmxalUuu-KqT8mO_zkhRBGX0K29jH88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
